@@ -84,5 +84,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License.
 
 ---
-
-This `Readme.md` file provides an overview of the AVL tree implementation, including problem description, code explanation, usage example, and contribution guidelines.
